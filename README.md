@@ -2,12 +2,8 @@
 
 this is test - 123-v2 issue
 
-<<<<<<< HEAD
 this is test - 124 third issue - v2
-=======
-this is test - 124 third issue
 
 this is test - 125 4th issue
 
 this is test - 126 5th issue
->>>>>>> c5d6970 (126)
